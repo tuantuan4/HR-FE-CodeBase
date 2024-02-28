@@ -1,4 +1,4 @@
-# dynamic-form
+# HR form
 
 <div align="center" style="margin: 30px;">
     <a href="https://refine.dev">
